@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>HPD1819HDTV0360s.jpg</filename>
+	<path>C:\Users\USER-PC\Desktop\dataset\images\HPD1819HDTV0360s.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>141</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>7</ymin>
+			<xmax>125</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>78</ymin>
+			<xmax>171</xmax>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>6K1469INa0025s.jpg</filename>
+	<path>C:\Users\USER-PC\Desktop\dataset\images\6K1469INa0025s.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>167</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>90</ymin>
+			<xmax>157</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

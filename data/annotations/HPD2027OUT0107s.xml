@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>HPD2027OUT0107s.jpg</filename>
+	<path>C:\Users\USER-PC\Desktop\dataset\images\HPD2027OUT0107s.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>188</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>63</ymin>
+			<xmax>118</xmax>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>fishing net</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>44</ymin>
+			<xmax>99</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+</annotation>

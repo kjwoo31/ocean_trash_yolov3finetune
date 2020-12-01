@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>HPD2031OUT0059s.jpg</filename>
+	<path>C:\Users\USER-PC\Desktop\dataset\images\HPD2031OUT0059s.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>188</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>65</ymin>
+			<xmax>170</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>

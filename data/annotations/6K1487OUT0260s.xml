@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>6K1487OUT0260s.jpg</filename>
+	<path>C:\Users\USER-PC\Desktop\dataset\images\6K1487OUT0260s.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>188</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rope</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>113</ymin>
+			<xmax>157</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>
